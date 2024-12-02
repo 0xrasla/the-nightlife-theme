@@ -1,10 +1,13 @@
 {
   "name": "0xtheme",
-  "displayName": "0xtheme",
+  "displayName": "Yo Dark Theme",
   "description": "dark themes",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.95.0"
+  },
+  "repository": {
+    "url": "https://github.com/0xrasla/yo-dark-theme"
   },
   "categories": [
     "Themes"

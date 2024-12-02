@@ -1,16 +1,70 @@
-# 0xtheme README
+# Yo Dark Theme
 
-## Working with Markdown
+A sleek, modern VS Code theme designed for comfortable night coding sessions. Features true black backgrounds and carefully selected color palettes to reduce eye strain while maintaining excellent code readability.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Variants
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+### 1. Yo Dark Night Ultra
 
-## For more information
+- True black background (#000000)
+- High contrast syntax highlighting
+- Perfect for OLED displays
+- Rich, vibrant colors for excellent code distinction
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### 2. Yo Dark Night Low Contrast
 
-**Enjoy!**
+- Soft dark background (#0A0A0A)
+- Reduced contrast for extended coding sessions
+- Muted color palette
+- Easier on the eyes while maintaining readability
+
+## Installation
+
+1. Open VS Code
+2. Go to Extensions (Ctrl+Shift+X)
+3. Search for "Yo Dark Theme"
+4. Click Install
+5. Press Ctrl+K Ctrl+T to open the theme selector
+6. Choose either "Yo theme" or "Yo theme dark low contrast"
+
+## Features
+
+- True black backgrounds for OLED displays
+- Carefully chosen contrast ratios
+- Consistent UI elements
+- Optimized for long coding sessions
+- Multiple variants for different preferences
+
+## Color Palette
+
+### Ultra Theme
+
+- Background: #000000 (True Black)
+- Foreground: #D4D4D4
+- Comments: #546E7A
+- Strings: #C3E88D
+- Keywords: #BB86FC
+- Functions: #82AAFF
+- Variables: #80CBC4
+
+### Low Contrast Theme
+
+- Background: #0A0A0A
+- Foreground: #9E9E9E
+- Comments: #404040
+- Strings: #8FAB6B
+- Keywords: #8B6BC0
+- Functions: #6187BC
+- Variables: #5F9A94
+
+## Contributing
+
+Feel free to contribute! Open an issue or submit a pull request at [GitHub repository](https://github.com/0xrasla/yo-dark-theme).
+
+## License
+
+This theme is released under the [MIT License](LICENSE.md).
+
+## Credits
+
+Created with by [0xrasla](https://github.com/0xrasla)
