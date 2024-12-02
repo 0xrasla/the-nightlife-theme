@@ -1,13 +1,14 @@
 {
   "name": "0xtheme",
-  "displayName": "Yo Dark Theme",
-  "description": "dark themes",
+  "displayName": "The Night Life Theme",
+  "description": "A sleek dark theme collection for comfortable night coding",
+  "publisher": "rasla",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.95.0"
   },
   "repository": {
-    "url": "https://github.com/0xrasla/yo-dark-theme"
+    "url": "https://github.com/0xrasla/night-life-theme"
   },
   "categories": [
     "Themes"
@@ -15,14 +16,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Yo theme",
+        "label": "Night Life Ultra",
         "uiTheme": "vs-dark",
-        "path": "./themes/Yo theme-color-theme.json"
+        "path": "./themes/night-life-ultra.json"
       },
       {
-        "label": "Yo theme dark low contrast",
+        "label": "Night Life Low Contrast",
         "uiTheme": "vs-dark",
-        "path": "./themes/Yo theme-dark-low-contrast-color-theme.json"
+        "path": "./themes/night-life-low-contrast.json"
       }
     ]
   }

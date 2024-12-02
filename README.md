@@ -1,17 +1,17 @@
-# Yo Dark Theme
+# Night Life Theme
 
 A sleek, modern VS Code theme designed for comfortable night coding sessions. Features true black backgrounds and carefully selected color palettes to reduce eye strain while maintaining excellent code readability.
 
 ## Variants
 
-### 1. Yo Dark Night Ultra
+### 1. Night Life Ultra
 
 - True black background (#000000)
 - High contrast syntax highlighting
 - Perfect for OLED displays
 - Rich, vibrant colors for excellent code distinction
 
-### 2. Yo Dark Night Low Contrast
+### 2. Night Life Low Contrast
 
 - Soft dark background (#0A0A0A)
 - Reduced contrast for extended coding sessions
@@ -22,10 +22,10 @@ A sleek, modern VS Code theme designed for comfortable night coding sessions. Fe
 
 1. Open VS Code
 2. Go to Extensions (Ctrl+Shift+X)
-3. Search for "Yo Dark Theme"
+3. Search for "Night Life Theme"
 4. Click Install
 5. Press Ctrl+K Ctrl+T to open the theme selector
-6. Choose either "Yo theme" or "Yo theme dark low contrast"
+6. Choose either "Night Life Ultra" or "Night Life Low Contrast"
 
 ## Features
 
@@ -59,7 +59,7 @@ A sleek, modern VS Code theme designed for comfortable night coding sessions. Fe
 
 ## Contributing
 
-Feel free to contribute! Open an issue or submit a pull request at [GitHub repository](https://github.com/0xrasla/yo-dark-theme).
+Feel free to contribute! Open an issue or submit a pull request at [GitHub repository](https://github.com/0xrasla/night-life-theme).
 
 ## License
 
@@ -67,4 +67,4 @@ This theme is released under the [MIT License](LICENSE.md).
 
 ## Credits
 
-Created with by [0xrasla](https://github.com/0xrasla)
+Created with ❤️ by [0xrasla](https://github.com/0xrasla)
