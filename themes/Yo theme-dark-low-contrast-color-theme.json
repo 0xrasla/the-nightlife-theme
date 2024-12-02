@@ -1,0 +1,141 @@
+{
+	"name": "Yo Dark Night Low Contrast",
+	"colors": {
+		"editor.background": "#0A0A0A",
+		"editor.foreground": "#9E9E9E",
+		"activityBar.background": "#0F0F0F",
+		"activityBar.foreground": "#888888",
+		"activityBarBadge.background": "#2D1657",
+		"activityBarBadge.foreground": "#9E9E9E",
+		"sideBar.background": "#0C0C0C",
+		"sideBar.foreground": "#787878",
+		"sideBarTitle.foreground": "#9E9E9E",
+		"titleBar.activeBackground": "#0F0F0F",
+		"statusBar.background": "#0F0F0F",
+		"statusBar.foreground": "#888888",
+		"tab.activeBackground": "#0F0F0F",
+		"tab.inactiveBackground": "#0A0A0A",
+		"editorLineNumber.foreground": "#3D3D3D",
+		"editorLineNumber.activeForeground": "#666666",
+		"editor.selectionBackground": "#1A3557",
+		"editor.wordHighlightBackground": "#1A355780",
+		"editor.lineHighlightBackground": "#0F0F0F"
+	},
+	"tokenColors": [
+		{
+			"name": "Comment",
+			"scope": [
+				"comment",
+				"punctuation.definition.comment"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#404040"
+			}
+		},
+		{
+			"name": "Variables",
+			"scope": [
+				"variable",
+				"string constant.other.placeholder"
+			],
+			"settings": {
+				"foreground": "#5F9A94"
+			}
+		},
+		{
+			"name": "Colors",
+			"scope": [
+				"constant.other.color"
+			],
+			"settings": {
+				"foreground": "#888888"
+			}
+		},
+		{
+			"name": "Invalid",
+			"scope": [
+				"invalid",
+				"invalid.illegal"
+			],
+			"settings": {
+				"foreground": "#BC4749"
+			}
+		},
+		{
+			"name": "Keyword, Storage",
+			"scope": [
+				"keyword",
+				"storage.type",
+				"storage.modifier"
+			],
+			"settings": {
+				"foreground": "#8B6BC0"
+			}
+		},
+		{
+			"name": "Operator, Misc",
+			"scope": [
+				"keyword.control",
+				"constant.other.color",
+				"punctuation",
+				"meta.tag",
+				"punctuation.definition.tag",
+				"punctuation.separator.inheritance.php",
+				"punctuation.definition.tag.html",
+				"punctuation.definition.tag.begin.html",
+				"punctuation.definition.tag.end.html",
+				"punctuation.section.embedded",
+				"keyword.other.template",
+				"keyword.other.substitution"
+			],
+			"settings": {
+				"foreground": "#6A93BC"
+			}
+		},
+		{
+			"name": "Function, Special Method",
+			"scope": [
+				"entity.name.function",
+				"meta.function-call",
+				"variable.function",
+				"support.function",
+				"keyword.other.special-method"
+			],
+			"settings": {
+				"foreground": "#6187BC"
+			}
+		},
+		{
+			"name": "String, Symbols, Inherited Class, Markup Heading",
+			"scope": [
+				"string",
+				"constant.other.symbol",
+				"constant.other.key",
+				"entity.other.inherited-class",
+				"markup.heading",
+				"markup.inserted.git_gutter",
+				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
+			],
+			"settings": {
+				"foreground": "#8FAB6B"
+			}
+		},
+		{
+			"name": "Class, Support",
+			"scope": [
+				"entity.name",
+				"support.type",
+				"support.class",
+				"support.other.namespace.use.php",
+				"meta.use.php",
+				"support.other.namespace.php",
+				"markup.changed.git_gutter",
+				"support.type.sys-types"
+			],
+			"settings": {
+				"foreground": "#BC8B4F"
+			}
+		}
+	]
+}

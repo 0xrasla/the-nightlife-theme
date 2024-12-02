@@ -1,0 +1,26 @@
+{
+  "name": "0xtheme",
+  "displayName": "0xtheme",
+  "description": "dark themes",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Yo theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Yo theme-color-theme.json"
+      },
+      {
+        "label": "Yo theme dark low contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Yo theme-dark-low-contrast-color-theme.json"
+      }
+    ]
+  }
+}
