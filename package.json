@@ -3,10 +3,10 @@
   "displayName": "The Night Life Theme",
   "description": "A sleek dark theme collection for comfortable night coding",
   "publisher": "rasla",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "icon": "icon.png",
   "engines": {
-    "vscode": "^1.95.0"
+    "vscode": "^1.92.0"
   },
   "repository": {
     "url": "https://github.com/0xrasla/night-life-theme"
